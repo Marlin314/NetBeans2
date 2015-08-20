@@ -13,7 +13,7 @@ public class NetBeans2 {
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    System.out.println("NetBeans2");
+    System.out.println("NetBeans2 - I think it is finally working.");
   }
   
 }
